@@ -1,0 +1,2 @@
+My favorite programming language is JS, as I feel it is the most powerful and robust language to use, even if it might be more complex to write.
+I would say JS is not my most experienced language - it would likely be Python.
